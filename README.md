@@ -1,4 +1,4 @@
-## AWS using terraform!
+## AWS using terraform
 
 # AWS VPC Terraform module
 
